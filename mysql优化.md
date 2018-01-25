@@ -34,7 +34,7 @@ b-tree索引常见误区:
 ```
 
 ## 4 . 聚簇索引&非聚簇索引
-- 1. Myisam :非聚簇索引
+- 1 . Myisam :非聚簇索引
 ```javascript
     xx.myi : 索引文件
     xx.myd : 数据文件
